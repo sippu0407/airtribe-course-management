@@ -35,9 +35,8 @@ This repository contains the source code for the Airtribe Course Management Appl
 
 Add the following configuration (replace with your actual database credentials):
 
- `` `PORT=your_server_port
-     DB_NAME=your_database_name
-     DB_USER=your_database_user
-     DB_PASSWORD=your_database_password
+- PORT=your_server_port
+- DB_NAME=your_database_name
+- DB_USER=your_database_user
+- DB_PASSWORD=your_database_password
    
-```
